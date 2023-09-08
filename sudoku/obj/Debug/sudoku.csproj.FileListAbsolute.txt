@@ -1,0 +1,11 @@
+C:\Users\angel\source\repos\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\angel\source\repos\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\angel\source\repos\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\angel\source\repos\sudoku\sudoku\obj\Debug\sudoku.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\sudoku\sudoku\obj\Debug\sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\angel\source\repos\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\angel\source\repos\sudoku\sudoku\bin\Debug\Newtonsoft.Json.dll
+C:\Users\angel\source\repos\sudoku\sudoku\bin\Debug\Newtonsoft.Json.xml
+C:\Users\angel\source\repos\sudoku\sudoku\obj\Debug\sudoku.csproj.CopyComplete
